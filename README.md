@@ -1,49 +1,43 @@
 <!-- Banner -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" />
+    <img src="./assets/github-header-banner.png" />
   </p>
 
-  <h1 align="center"> Hey there! I'm Aditya </h1>
+  <h1 align="left"> About me </h1>
   
-  <h3 align="center">Passionate about Software Development and Technology </h3>
+  <h3 align="left">Passionate about Software Development and Technology </h3>
 
   <div align="center">
     <img
       src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-      width="320"
+      width="360"
       align="right" 
       alt="Coding"
     />
   </div>
+  
+- Systems Engineer passionate about software development and technology.
 
-💡 I like to explore new technologies and develop software solutions and quick hacks.
+- Experience building web applications and participating in projects focused on business process optimization.
 
-🎓 I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
+- Skilled in React, TypeScript, JavaScript, Java and PostgreSQL.
 
-🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+- Experience in IT Support, Service Desk, SysAid and incident management.
 
-✍️ In my free time, I pursue Graphic Design and Blog Writing as hobbies.
+- Continuous learner with interest in Software Engineering, Project Management and Artificial Intelligence.
 
-💬 Feel free to reach out to me for some interesting discussion.
+- Based in Barranquilla, Colombia.
 
-✉️ You can shoot me an email at **avsingh@umass.edu**
+- Reach me at: **sotoortizjeanmichael@gmail.com**
 
-📄 Check out my [Résumé](https://www.adityavsingh.com/resume.html).
 
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,tailwind,postgres,git,github,postman,vscode,discord" />
-
+<h1>Tech Stack</h1>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,ts,js,java,php,html,css,tailwind,bootstrap,postgres,mysql,git,github,vscode"/>
 </div>
 
----
 
-# 📊 GitHub Analytics
-
+<h1>GitHub Analytics</h1>
 <table align="center">
 <tr>
 <td>
@@ -70,42 +64,20 @@ src="https://streak-stats.demolab.com?user=1010nishant&theme=dark"/>
 </tr>
 </table>
 
----
 
-# 🚀 Featured Projects
+<h1>Connect With Me</h1>
+<div align="left">
 
-- 📦 ERP Web
-- 🤖 Calma AI
-- 🌱 EcoRaíz
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/jean-michael-soto-ortiz-ba5a7b204" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:yourmail@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:sotoortizjeanmichael@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://yourportfolio.com">
-  <img src="https://skillicons.dev/icons?i=wordpress" />
+<a href="https://github.com/jean0518" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=1010nishant&color=blue)
 
 </div>
