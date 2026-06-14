@@ -9,8 +9,8 @@
 
   <div align="center">
     <img
-      src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-      width="360"
+      src="./assets/development.gif"
+      width="400"
       align="right" 
       alt="Coding"
     />
